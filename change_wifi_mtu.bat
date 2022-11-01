@@ -1,1 +1,1 @@
-netsh interface ipv4 set subinterface "Wi-Fi" mtu=1000 store=active
+netsh interface ipv4 set subinterface "Wi-Fi" mtu=100 store=active

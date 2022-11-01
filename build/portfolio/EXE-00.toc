@@ -43,9 +43,6 @@
   ('pyi_rth_inspect',
    'c:\\users\\kasna\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
-  ('pyi_rth_multiprocessing',
-   'c:\\users\\kasna\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
-   'PYSOURCE'),
   ('pyi_rth_pkgres',
    'c:\\users\\kasna\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
    'PYSOURCE'),
@@ -55,7 +52,7 @@
  [],
  False,
  False,
- 1667266800,
+ 1667267940,
  [('run.exe',
    'c:\\users\\kasna\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])

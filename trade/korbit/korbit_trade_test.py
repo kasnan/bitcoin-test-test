@@ -4,6 +4,7 @@ import time
 
 class Korbit :
     def __init__(self) -> None:
+        #API id와 비밀 키
         self.client_id = 'uihAxApaUfXxD1fyHEjC1UTWHZOwFQ1VPY8cKyUkeqWpAdSnJ1WQVp2yUgoqD'
         self.client_secret = 'O210R4Tuqgpv7eAByhMMFL2hlxrH5jSrCv7hbU7Vrm985lGkGPer9Q5x5QuZk'
         self.headers = ""
